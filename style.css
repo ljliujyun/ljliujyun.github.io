@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    text-align-last: center;
+  }
+.header {
+    background-color: lightgray;
+}
+.topnav {
+    background-color: lightslategray;
+}
+.column {
+    float: left;
+}
+.column.left{
+    width: 15%;
+    background-color: lightblue;
+}
+.column.mid {
+    width: 50%;
+    background-color: lightsteelblue;
+}
+.column.right {
+    width: 35%;
+    background-color: lightskyblue;
+}
+.footer {
+    background-color: darkblue;
+}
