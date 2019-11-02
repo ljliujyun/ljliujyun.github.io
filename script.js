@@ -7,7 +7,7 @@ async function importone(date) {
     const response = await fetch(date+'.txt');
     const myJson = await response.text();
     const string = String(myJson);
-    const text = '<h2>'+ date +'</h2>' + '<p>' + string.replace(/\r\n/g,'</p><p>') + '</p>';
+    const text = '<h2>'+ date +'</h2>' + '<p>' + string.replace(/\r\n|\r|\n/g,'</p><p>') + '</p>';
 
     document.getElementsByClassName('column mid').item(0).innerHTML += text;
 
@@ -17,7 +17,7 @@ async function importtext() {
     const response = await fetch('catalogue.txt');
     const myJson = await response.text();
     const string = String(myJson);
-    const array =  string.split(/\r\n/);
+    const array =  string.split(/\r\n|\r|\n/);
     console.log(array);
     array.forEach(element => {
         importone(element);
