@@ -8,7 +8,6 @@ async function importone(date) {
     const myJson = await response.text();
     const string = String(myJson);
     const text = '<h2>'+ date +'</h2>' + '<p>' + string.replace(/\r\n/g,'</p><p>') + '</p>';
-    console.log(string.split());
 
     document.getElementsByClassName('column mid').item(0).innerHTML += text;
 
@@ -19,6 +18,7 @@ async function importtext() {
     const myJson = await response.text();
     const string = String(myJson);
     const array =  string.split(/\r\n/);
+    console.log(array);
     array.forEach(element => {
         importone(element);
     });
