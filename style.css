@@ -1,7 +1,8 @@
-* {
+body {
     box-sizing: border-box;
     margin: 0;
-    text-align-last: center;
+    text-align: center;
+    font-family: 'Noto Sans HK', sans-serif;
   }
 .header {
     background-color: lightgray;
@@ -19,6 +20,7 @@
 .column.mid {
     width: 50%;
     background-color: lightsteelblue;
+    text-align: left ;
 }
 .column.right {
     width: 35%;
