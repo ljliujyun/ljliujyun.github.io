@@ -25,6 +25,6 @@ async function importtext() {
 }
 
 
-importtext()
-
+/* importtext()
+ */
 console.log('finished script')
