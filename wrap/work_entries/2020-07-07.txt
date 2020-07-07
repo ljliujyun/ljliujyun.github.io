@@ -1,24 +1,24 @@
 <b>What have I done?</b>
 Morning:
-Learned a bit about Motors on https://www.instructables.com/class/Large-Motors-Class/
-Openned the Makeblock Makerspace kit
+⚫Learned a bit about Motors on https://www.instructables.com/class/Large-Motors-Class/
+⚫Openned the Makeblock Makerspace kit
 Afternoon:
-Put together a part list for major mechanical parts in the Makeblock kit
-Had a talk from Paul who is doing some testings on a fridge
-Helped with laser cutting for the Lantau project
+⚫Put together a part list for major mechanical parts in the Makeblock kit
+⚫Had a talk from Paul who is doing some testings on a fridge
+⚫Helped with laser cutting for the Lantau project
 
 <b>What have I learnt?</b>
-Learnt about motors - solenoid valves, stepper motor, encoder motor, etc.
-Learnt about different actuators - linear drive, timing belt + timing pulley, chain + sprocket, track + timing pulley, shaft + pulley + collar + connector
-Practice with laser cutter - engraving and cutting on corrugated cardboard
-Had a chat with Maria:
-Inkscape is a good software to do 2D design for complicated shapes to be laser cut
-Arduino boards can be wifi connected so an LED can be controlled from distance. Maybe a automatic farm? Or a (super) remote control car/ drone?
-A database is required to do IOT. Maybe I can learn more about php/ python back-end.
-The design of a fridge powered with solar pannel - relys on water as a thermal mass since water has the property that it is densest at 4 degree C, so a convection is possible, kinda similar to how lakes never freezes? I suggested instead of one giant door, make seperate small doors, which seems sensible to me.
+⚫Learnt about motors - solenoid valves, stepper motor, encoder motor, etc.
+⚫Learnt about different actuators - linear drive, timing belt + timing pulley, chain + sprocket, track + ⚫timing pulley, shaft + pulley + collar + connector
+⚫Practice with laser cutter - engraving and cutting on corrugated cardboard
+⚫Had a chat with Maria:
+⚪Inkscape is a good software to do 2D design for complicated shapes to be laser cut
+⚪Arduino boards can be wifi connected so an LED can be controlled from distance. Maybe a automatic farm? Or a (super) remote control car/ drone?
+⚪A database is required to do IOT. Maybe I can learn more about php/ python back-end.
+⚫The design of a fridge powered with solar pannel - relys on water as a thermal mass since water has the property that it is densest at 4 degree C, so a convection is possible, kinda similar to how lakes never freezes? I suggested instead of one giant door, make seperate small doors, which seems sensible to me.
 
 <b>Others</b>
-Met new people and had fun with people from LCC - Sabrina, Klaus, Ceas
-Ceas made noodles for us
-Spoke a few words with Yuri
-Thomas seems nice
+⚫Met new people and had fun with people from LCC - Sabrina, Klaus, Ceas
+⚫Ceas made noodles for us
+⚫Spoke a few words with Yuri
+⚫Thomas seems nice
