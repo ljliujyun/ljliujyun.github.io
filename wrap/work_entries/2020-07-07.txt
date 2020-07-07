@@ -9,7 +9,7 @@ Afternoon:
 
 <b>What have I learnt?</b>
 ⚫Learnt about motors - solenoid valves, stepper motor, encoder motor, etc.
-⚫Learnt about different actuators - linear drive, timing belt + timing pulley, chain + sprocket, track + ⚫timing pulley, shaft + pulley + collar + connector
+⚫Learnt about different actuators - linear drive, timing belt + timing pulley, chain + sprocket, track + timing pulley, shaft + pulley + collar + connector
 ⚫Practice with laser cutter - engraving and cutting on corrugated cardboard
 ⚫Had a chat with Maria:
 ⚪Inkscape is a good software to do 2D design for complicated shapes to be laser cut
