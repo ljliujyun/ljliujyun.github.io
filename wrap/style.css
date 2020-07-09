@@ -1,0 +1,19 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 80vw 1fr;
+    justify-items: center;
+}
+.container >* {
+    grid-column: 2;
+}
+
+.divider {
+    width: 100%;
+    height:0.5px;
+    background-color: grey;
+    margin: 10px 0px;
+}
+
+.row {
+    text-align: center;
+}
