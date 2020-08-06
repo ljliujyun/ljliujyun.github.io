@@ -1,0 +1,17 @@
+Main learning points
+
+Chapter 1 - Hello,World!:
+- Learn programming by practicing (active learning) not just following steps (passive learning)
+
+Chapter 2 - Templates:
+- Create a mock user for making templates (in life, create a mock stage for the later stages)
+- Seperate Application logic from presentation
+- rendering - converst a template into a complete HTML page
+
+*Placeholders
+*Conditional statements
+*Loops
+*Template Inheritance
+
+Chatper 3 - Web Forms:
+- Seperation of concerns
