@@ -7,6 +7,7 @@ async function import_text() {
     console.log('hi')
 
     document.querySelectorAll('.nav').forEach(item => {
+        console.log(item);
         item.addEventListener('click', event => {
           console.log(item.innerHTML);
         })
