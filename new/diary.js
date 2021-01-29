@@ -1,10 +1,8 @@
-var a = document.getElementsByTagName("a")[0]
-console.log(a)
-a.onclick = showAlert; // Add onclick function to element
-    
-function showAlert(event) {
-    console.log("onclick Event triggered!");
-}
+document.querySelectorAll('.nav').forEach(item => {
+    item.addEventListener('click', event => {
+      console.log(item.innerHTML);
+    })
+  })
 
 async function import_text() {
     const response = await fetch('nav.html');
