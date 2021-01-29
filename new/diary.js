@@ -8,6 +8,7 @@ function showAlert(event) {
 
 async function import_text() {
     const response = await fetch('nav.html');
+    console.log(response);
     const myJson = await response.text();
     const string = String(myJson);
     document.getElementById('content').innerHTML = string;
