@@ -1,0 +1,29 @@
+<b>What have I done?</b>
+Morning:
+⚫Laser cut curriculum CAD drawing for chessboard
+⚫Selected pictures and videos from Lautau trip yesterday to upload on the drive
+⚫小木偶參觀 makerbay - I kinda eavesdropped  
+Afternoon:
+⚫Worked with Maria to make the Makeblock Orion board work with a DC motor
+⚫3D printed two tippe tops that didn't manage to spin upside down
+⚫Learned a bit of Arduino with the seeedstudio kit - made LED blink
+⚫Researched about Arduino controlling a DC motor directly - a motor driver is required
+Evening (E-textile):
+⚫A participant gave a talk about how a soft gripper can be made using 3D printed mould with silicone gel. The gripper has air tubes embedded so that a syringe can force air inside, afterwhich the volume changes can make the gripper grip.
+⚫Kent gave a talk about how Sawtooth API can be connected with RethinkDB and Sensors.
+⚫Tried to make Adafruit work, but didn't succeed. 
+
+<b>What have I learnt?</b>
+⚫小木偶參觀 - a student said knowing more tools and skills can expand the possiblities of design - I think this is definitely true. I think these days I have seen and learnt so many new skills (even if I didn't master it, I have had a taste), which definitely enables me to make things in different ways. However, I should still keep in mind that I have to design things without over-complicating the design. I have so much to use in my repository, but I should only use the necessary - to make the best and the most simplistic design.
+⚫CAD for chessboard is more time consuming than I thought. A design really has to be sketched - in which problems are gonna be revealed.
+⚫Learned about the basics of robotics through motor and sensor.
+⚫Learnt how to operate the 3d printer in MKB.
+⚫Learnt about soft gripper.
+⚫Learnt about how blockchain is placed at an earlier stage so that data can be protected form the beginning.
+
+
+<b>Others</b>
+⚫Sleeping quite late today - I really have to learn managing my time better - sacrificing sleep is not sustainable
+⚫How can Maria be so busy and still be okay?
+⚫Had a run yesterday and my body feels better today.
+⚫MKB allows workers to have freedom, but there isn't enough trust?

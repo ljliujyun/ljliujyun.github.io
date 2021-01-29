@@ -1,0 +1,11 @@
+what have I done?
+Morning:
+⚫No session
+Afternoon:
+⚫Arduino
+⚫Talked to Thomas about induction classes
+Evening:
+E-textile - I worked on arduino stil...
+
+what have I learnt?
+⚫The reason why I don't like coding is that so much work is built on others' work. It is difficult to debug... I tried to debug the motor driver and the problem is... the tutorial was wrong!!!! Yes this teaches me how to debug things that can't be intuitively understood... isolate parts to test things bit by bit.

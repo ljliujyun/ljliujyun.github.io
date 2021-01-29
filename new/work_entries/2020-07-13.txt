@@ -1,0 +1,48 @@
+<b>What have I done?</b>
+Morning:
+⚫Meeting with Maria - talked about what I need to do
+⚫Laser cutting - encountered the problem that engraving doesn't fill up the space as intended. Turnd out this is caused by the 'export to DXF settings' rhino. Need to uncheck the box - simplify curves.
+Afternoon:
+⚫Laser cutting - encountered the problem that the laser does not cut after doing engraving - Thomas told me just need to restart the computer and I figured out that I just need to do the engraving before cutting seperating, and give a 2-minute (or 3) break in between
+⚫Laser cutting - encountred the problem that layers are not right. Turns out the layers imported into Triumph are differentiated by colours, instead of the original layering in Rhino.
+⚫Laser cutting - Had to cut the top board again because the kerf width test I had done last time didn't apply today. I think it is just too sensitive to the height of the platform (focus).
+⚫Thomas asked me to buy toilet covers haha. Then I did the installation because I was able to reach the back of the toilet seat. Thomas has big arms so he couldn't... 
+⚫Finished cutting the chessboard and started assembly. Tried to document the whole process. Unfortunately the rotation hinge doesn't work. Need to cut some smaller parts and increase the thickness tomorrow. Then it should be fine.
+
+<b>What have I learnt?</b>
+⚫A lot about laser cutting - cut after engrave problem, layering, lines simplified, laser kerf width.
+⚫Learned how to install a toilet cover.
+
+<b>Others</b>
+⚫Fianlly talked to Thomas for a bit more... He told me I could add 'professional plumber' on my CV.
+⚫Had dinner with Nicole.
+
+
+Blog post (Design)
+
+New things that I have learnt:
+Laser cut jobs + The design of a living hinge using laser cutter -> a chessboard
+3D printed a tippe top
+Some graphic design using Inkscape -> making complicated grahic design + making my own logo
+Basics of Arduino robotics - connecting to a humidity sensor -> an automatic farm
+Talk to all kinds of people - fridge guy database coding soft gripper
+
+They open many possibilities for design
+
+But I want to keep things simplistic still - a design shouldn't be just a jumbo of technology
+
+pick out the necessaries
+
+"Out of so many manufacturing techniques, I only know laser cutting. Therefore, I tend to come up with designs ideas that are 
+
+
+
+
+
+
+Next blog post (people)
+visit lantau
+Talk to all kinds of people - fridge guy database coding soft gripper
+all makers from different background
+
+another blogpost (How to hold a workshop - kids are cute but can get scary sometimes)

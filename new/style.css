@@ -1,0 +1,8 @@
+pre {
+    color:blue;
+    width:200px;
+    text-overflow: ellipsis;
+}
+.container {
+    width: 500px;
+}
