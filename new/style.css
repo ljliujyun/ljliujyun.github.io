@@ -6,3 +6,7 @@ pre {
 .container {
     width: 500px;
 }
+
+a {
+    display: block;
+}
